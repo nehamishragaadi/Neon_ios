@@ -15,7 +15,7 @@ This Neon_ios changes its color gradually makes your app look fantastic!
 s.ios.deployment_target = '10.0'
 s.framework = "UIKit"
 s.source_files = "NeoniosDemo/Source/*.{swift,h,m}"
-s.resources = "NeoniOS/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+s.resources = "NeoniOS/Resource/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 s.swift_version = "5.0"
  
 end
